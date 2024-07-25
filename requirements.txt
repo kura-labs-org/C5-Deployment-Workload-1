@@ -19,6 +19,7 @@ pyecharts-jupyter-installer
 pyparsing
 python-dateutil
 python-dotenv
+pytest
 requests
 six
 SQLAlchemy
